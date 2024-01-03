@@ -1,0 +1,8 @@
+{
+    "flake8.path": [
+        ".flake8"
+    ],
+/*     "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports" : "none",
+   }, */
+}
